@@ -1,0 +1,8 @@
+body{
+    background-color: rgb(183, 161, 159);
+    display: grid;
+    place-content: center;
+    text-align: center;
+    gap:20px;
+    height: 100vh;
+}
